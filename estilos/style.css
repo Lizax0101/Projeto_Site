@@ -6,6 +6,17 @@
 body{
     background-color: rgb(235, 87, 208);
 }
+h1{
+    font-size: 2em;
+    color: rgb(30, 242, 129);
+}
+h2{
+    font-size: 1em;
+    color:  rgb(30, 242, 129);
+}
+img.lado{
+    float: right;
+}
 main{
     background-color: white;
     width: 500px;
